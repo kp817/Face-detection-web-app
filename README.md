@@ -12,5 +12,8 @@ This will open up the application in a web browser and you can run the app.
   
 2.  Training:
             from dataset folder those images are send to LBPHFaceRecognizer to recognize then we will get name from path by spliting path and append those faces and id in                     repective lists.we will save our model in yml file to use it again.
+
+
+
 3.Deployment:
              we will deploy our trained model using streamlit framework.
